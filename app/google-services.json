@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "569251045039",
+    "firebase_url": "https://pwpbujianakhirsemester.firebaseio.com",
+    "project_id": "pwpbujianakhirsemester",
+    "storage_bucket": "pwpbujianakhirsemester.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569251045039:android:1c3bedbdecd60efc373e5a",
+        "android_client_info": {
+          "package_name": "com.example.pwpb_ujianakhirsemester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569251045039-rb0id1ibuk9368kdtq21g4ok7o7oi70d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pwpb_ujianakhirsemester",
+            "certificate_hash": "c5c29f1960a42a7025d4bf07bec200a84ad81316"
+          }
+        },
+        {
+          "client_id": "569251045039-jv3tlbf71j4r97pksknkpiuatteb2rsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDflS1YVNPg2mBJ1USnaDkHKcNlWRe1DKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569251045039-jv3tlbf71j4r97pksknkpiuatteb2rsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

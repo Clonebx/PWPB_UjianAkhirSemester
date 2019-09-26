@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InputDataActivity"
+    android:orientation="vertical"
+    android:layout_margin="15dp">
+
+    <EditText
+        android:id="@+id/editjudul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Judul"/>
+
+    <EditText
+        android:id="@+id/editisi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Deskripsi"
+        android:layout_marginVertical="30dp"/>
+
+    <Button
+        android:id="@+id/add_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tambah"
+        android:background="@android:color/holo_blue_dark"
+        android:textColor="@android:color/white"/>
+</LinearLayout>
